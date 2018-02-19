@@ -1,0 +1,11 @@
+framework module TrackerExtension {
+  umbrella header "TrackerExtension.h"
+
+  export *
+  module * { export * }
+}
+
+module TrackerExtension.Swift {
+    header "TrackerExtension-Swift.h"
+    requires objc
+}

@@ -1,0 +1,11 @@
+framework module Tracker {
+  umbrella header "Tracker.h"
+
+  export *
+  module * { export * }
+}
+
+module Tracker.Swift {
+    header "Tracker-Swift.h"
+    requires objc
+}

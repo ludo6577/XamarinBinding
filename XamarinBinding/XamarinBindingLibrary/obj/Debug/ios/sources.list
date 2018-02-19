@@ -1,0 +1,4 @@
+obj\Debug\ios\ObjCRuntime\Messaging.g.cs
+obj\Debug\ios\ObjCRuntime\Trampolines.g.cs
+obj\Debug\ios\XamarinBindingLibrary\ATInternet.g.cs
+obj\Debug\ios\XamarinBindingLibrary\Tracker.g.cs

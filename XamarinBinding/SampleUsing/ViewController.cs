@@ -1,23 +1,19 @@
 ﻿using System;
-
 using UIKit;
 
 namespace SampleUsing
 {
 	public partial class ViewController : UIViewController
 	{
-		protected ViewController(IntPtr handle) : base(handle)
-		{
-			// Note: this .ctor should not contain any initialization logic.
-		}
+		protected ViewController(IntPtr handle) : base(handle) {}
 
 		public override void ViewDidLoad()
 		{
 			base.ViewDidLoad();
 
-			var myClass = new XamarinBindingLibrary.MyClass();
-			lblText.Text = myClass.Value;
-		}
-	}
+		    var _instance = XamarinBindingLibrary.ATInternet.SharedInstance();
+		    //var _tracker = _instance.DefaultTracker; // <<== DefaultTracker is always null
+        }
+    }
 }
 

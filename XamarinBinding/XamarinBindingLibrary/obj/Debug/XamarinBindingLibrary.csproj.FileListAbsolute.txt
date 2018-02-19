@@ -1,0 +1,5 @@
+C:\DEV\PRO\POC\BindingXITI\Xamarin.BindingSwiftLibrarySample\XamarinBinding\XamarinBindingLibrary\bin\Debug\XamarinBindingLibrary.dll
+C:\DEV\PRO\POC\BindingXITI\Xamarin.BindingSwiftLibrarySample\XamarinBinding\XamarinBindingLibrary\bin\Debug\XamarinBindingLibrary.pdb
+C:\DEV\PRO\POC\BindingXITI\Xamarin.BindingSwiftLibrarySample\XamarinBinding\XamarinBindingLibrary\obj\Debug\XamarinBindingLibrary.csproj.CoreCompileInputs.cache
+C:\DEV\PRO\POC\BindingXITI\Xamarin.BindingSwiftLibrarySample\XamarinBinding\XamarinBindingLibrary\obj\Debug\XamarinBindingLibrary.dll
+C:\DEV\PRO\POC\BindingXITI\Xamarin.BindingSwiftLibrarySample\XamarinBinding\XamarinBindingLibrary\obj\Debug\XamarinBindingLibrary.pdb
