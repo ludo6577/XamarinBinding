@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>iPhone 8 iOS 11.2</SelectedDevice>
     <DefaultDevice>iPhone 8 iOS 11.2</DefaultDevice>
+    <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
 </Project>
